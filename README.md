@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimal-3008&label=Profile%20views&color=0e75b6&style=flat" alt="parimal-3008" /> </p>
 
-- 🔭 I’m currently working on [Data Structure and Algorithm problems](https://leetcode.com/parimal30/)
+- 🔭 I’m currently working on solving [Data Structure and Algorithm](https://leetcode.com/parimal30/) problems
 
 - 🌱 I’m currently learning **Web Development**
 
