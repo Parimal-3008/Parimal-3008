@@ -10,7 +10,7 @@
 
 - 👨‍💻 My portfolio is available [here](https://parimalyeole.vercel.app/)
 
-- 📫 How to reach me **parimalyeole30@gmail.com**
+- 📫 How to reach me:  [Email](parimalyeole30@gmail.com) | [LinkedIn](https://www.linkedin.com/in/parimalyeole/)
 
 - 📄  [My Resume](https://parimalyeole.vercel.app/resume)
 
