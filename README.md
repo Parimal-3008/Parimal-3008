@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://parimalyeole.vercel.app/](https://parimalyeole.vercel.app/)
+- 👨‍💻 My portfolio is available [here](https://parimalyeole.vercel.app/)
 
 - 📫 How to reach me **parimalyeole30@gmail.com**
 
-- 📄 Know about my experiences [https://parimalyeole.vercel.app/resume](https://parimalyeole.vercel.app/resume)
+- 📄  [My Resume](https://parimalyeole.vercel.app/resume)
 
 - ⚡ Fun fact: **I love to play chess**
 
