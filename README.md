@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://parimalyeole.vercel.app/resume](https://parimalyeole.vercel.app/resume)
 
-- ⚡ Fun fact **I love to play chess**
+- ⚡ Fun fact: **I love to play chess**
 
 
 
