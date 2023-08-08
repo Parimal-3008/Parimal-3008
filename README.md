@@ -23,5 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parimal-3008&show_icons=true&locale=en&layout=compact" alt="parimal-3008" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimal-3008&" alt="parimal-3008" /></p>
 
